@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NTP on Shi Yong</title>
+    <link>https://sygoh.com/tags/ntp/</link>
+    <description>Recent content in NTP on Shi Yong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sat, 12 Sep 2020 14:48:49 +0800</lastBuildDate>
+    
+	<atom:link href="https://sygoh.com/tags/ntp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is NTP</title>
+      <link>https://sygoh.com/articles/ntp/</link>
+      <pubDate>Sat, 12 Sep 2020 14:48:49 +0800</pubDate>
+      
+      <guid>https://sygoh.com/articles/ntp/</guid>
+      <description>Have you ever wondered what goes on behind that little tiny clock you see on your PC?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shi Yong</title>
-    <link>https://sygoh.com/</link>
-    <description>Recent content on Shi Yong</description>
+    <title>Articles on Shi Yong</title>
+    <link>https://sygoh.com/articles/</link>
+    <description>Recent content in Articles on Shi Yong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Sat, 12 Sep 2020 14:48:49 +0800</lastBuildDate>
     
-	<atom:link href="https://sygoh.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sygoh.com/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://sygoh.com/articles/ntp/</guid>
       <description>Have you ever wondered what goes on behind that little tiny clock you see on your PC?</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://sygoh.com/about/</link>
-      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      
-      <guid>https://sygoh.com/about/</guid>
-      <description>Hi, welcome to my blog. This is where I write about cyber security and technology related posts and other random stuff that interest me.</description>
     </item>
     
     <item>
